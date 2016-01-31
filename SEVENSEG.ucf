@@ -1,0 +1,13 @@
+NET "nSEG<0>" LOC="P34";
+NET "nSEG<1>" LOC="P33";
+NET "nSEG<2>" LOC="P32";
+NET "nSEG<3>" LOC="P31";
+NET "nSEG<4>" LOC="P30";
+NET "nSEG<5>" LOC="P29";
+NET "nSEG<6>" LOC="P28";
+NET "nSEG<7>" LOC="P27";
+
+NET "SW<0>" LOC="P1";
+NET "SW<1>" LOC="P2";
+NET "SW<2>" LOC="P3";
+NET "SW<3>" LOC="P5";
